@@ -14,7 +14,7 @@ Follow these steps in the exact order:
    ```
 2. Clone the environment variables file:
    ```sh
-   cp .env.local.example .env.local
+   cp .env.example .env
    ```
 3. Install dependencies:
    ```sh
